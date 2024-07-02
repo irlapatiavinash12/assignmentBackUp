@@ -1,0 +1,31 @@
+/* Write your CSS here */
+
+.list-item-styling {
+  width: 25vw;
+  height: 18vh;
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  border-radius: 10px;
+  border-style: solid;
+  background-color: #ffffff33;
+  border-color: #ffffff;
+  margin: 10px;
+}
+
+.image-styling {
+  height: 90%;
+  width: 30%;
+  margin-right: 20px;
+}
+
+.team-name {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+}
+
+.item-link {
+  color: #475569;
+  font-family: 'Roboto';
+}

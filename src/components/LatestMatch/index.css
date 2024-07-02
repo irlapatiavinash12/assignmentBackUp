@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.latest-match-container {
+  height: 34vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.matchDetails {
+  background-color: #0f172a;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+
+.venue-details {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+  padding: 10px;
+}
+
+.playerDetails {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+  padding: 10px;
+}
+
+.competing-logo {
+  width: 30%;
+  margin: 10px;
+}

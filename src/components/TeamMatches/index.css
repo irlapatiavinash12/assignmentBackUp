@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.team-match-main-bg {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-image: linear-gradient(
+    to bottom,
+    #da237b,
+    #13418b,
+    #f26d22,
+    #4f5db0
+  );
+}
+
+.team-image-styling {
+  height: 30%;
+  width: auto;
+  margin-bottom: 15px;
+}
